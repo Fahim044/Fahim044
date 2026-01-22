@@ -1,8 +1,10 @@
 <p align="center">
   <img src="./Banner.png" alt="Fahim Faysal - Web Developer Banner" />
 </p>
-<h1 align="center">I'm Fahim Faysal</h1>
+<h1 align="center">Fahim Faysal</h1>
 <h3 align="center">Frontend Developer</h3>
+<p>About me:</p>
+<p>I am Fahim Faysal.I am from Bangladesh.I know the technologies HTML,CSS,Javascript,React,TailwindCSS,MOngoDB,Express JS</p>
 
 - 🌱 I’m currently learning **Next JS**
 
