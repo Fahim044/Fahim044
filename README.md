@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Banner.png" alt="Fahim Faysal - Web Developer Banner" />
+</p>
 <h1 align="center">I'm Fahim Faysal</h1>
 <h3 align="center">Frontend Developer</h3>
 
