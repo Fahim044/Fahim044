@@ -4,9 +4,12 @@
 <h1 align="center">Fahim Faysal</h1>
 <h3 align="center">Frontend Developer</h3>
 <p>About me:</p>
-<p>I am Fahim Faysal.I am from Bangladesh.I know the technologies HTML,CSS,Javascript,React,TailwindCSS,MOngoDB,Express JS</p>
+<p>Web Developer with hands-on experience in React and the MERN stack.  
+Focused on building clean, responsive, and user-friendly applications.  
+Currently learning Next.js and improving my full-stack development skills.
+</p>
 
-- 🌱 I’m currently learning **Next JS**
+
 
 - 📫 How to reach me **fahiimfaysalleusc044@gmail.com**
 - Contact Number: *+8801750288118*
