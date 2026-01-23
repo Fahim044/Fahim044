@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner.png" alt="Fahim Faysal - Web Developer Banner" />
+  <img src="./Banner 2.png" alt="Fahim Faysal - Web Developer Banner" />
 </p>
 <h1 align="center">Fahim Faysal</h1>
 <h3 align="center">Frontend Developer</h3>
